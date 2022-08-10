@@ -153,7 +153,7 @@ $ echo $?
 ## Full documentation
 For more info about this project you can run the man page:
 
-`$ ./man_1_simple`
+`$ ./man_1_simple_shell`
 
 ## Bugs
 At this time, there are no known bugs.
